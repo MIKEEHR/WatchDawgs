@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Enjoy on your TV.",
+    "subTitle": "Watch on smart TVs,Laptop, PC, Blu-ray players and more.",
+    "image": "http://i.imgur.com/ul5LS.jpg",
+    "alt": "Any Local videos you have!",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Play RETRO Games with your friends.",
+    "subTitle": "Save your data and continue play next time.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chrono_Trigger.jpg",
+    "alt": "Chrono Trigger",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Watch everywhere.",
+    "subTitle": "Easily accessible all you need is good internet connection.",
+    "image": "https://pbs.twimg.com/media/DdUeMbRUQAE4YEo.jpg",
+    "alt": "Fun",
+    "direction": "row"
+  }
+]
